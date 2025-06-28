@@ -21,11 +21,9 @@ The objective of this project is to practice modern front-end development techni
 
 ## 📂 Project Structure
 
-project/
-│
-├── images/ # Contains all image assets
-├── main.html # Main HTML file
-└── style.css # External stylesheet
+- **images/** – Contains all image assets (e.g., logos, header and feature illustrations)
+- **main.html** – Main HTML file that structures the landing page
+- **style.css** – External stylesheet that provides all styling and layout
 
 
 ## 🖥️ How to Run
