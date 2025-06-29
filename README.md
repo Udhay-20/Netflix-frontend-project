@@ -31,7 +31,7 @@ The objective of this project is to practice modern front-end development techni
 1. Clone or download the project files  
 2. Open `main.html` in any modern web browser  
 
-## 📎 Notes
+## 📝 Notes
 
 - This project is created for educational and demonstration purposes only.  
 - All images and design elements are inspired by Netflix’s public website.
